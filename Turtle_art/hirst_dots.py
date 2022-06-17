@@ -11,6 +11,7 @@ def random_color():
 
 t = turtle.Turtle()
 t.penup()
+t.hideturtle()
 t.setposition((-200.00, 200.00))
 t.speed("fastest")
 
